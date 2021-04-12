@@ -1,5 +1,5 @@
 data/chest_xray
-models/resnet18_2021-04-11_20:47:32.pt
+models/1_resnet18_2021-04-11_20-47-32.pt
 .ipynb_checkpoints
 .virtual_documents
 runs
