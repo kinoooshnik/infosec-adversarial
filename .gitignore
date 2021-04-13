@@ -5,3 +5,4 @@ models/*.pt
 .ipynb_checkpoints
 .virtual_documents
 runs
+*__pycache__*
