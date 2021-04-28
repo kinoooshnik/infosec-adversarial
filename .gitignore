@@ -1,6 +1,7 @@
 data/chest_xray
 data/2nd_dataset_COVID_19_Radiography_Dataset/
 data/3rd_dataset_chest_xray_covid19_pneumonia/
+data/3rd_chest-xray-covid19-pneumonia/
 models/*.pt
 .ipynb_checkpoints
 .virtual_documents
